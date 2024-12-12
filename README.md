@@ -1,1 +1,1 @@
-# SamuelCaleroRuiz_proyecto2
+# Esto es un repositorio en github que contiene todos los contenidos del proyecto 2 del examen de Entornos de Desarrollo, en el documento de La API se explica como funciona una API y se hace uso de una, en el de Emmet y Copilot se instalan ambas extensiones y se hace uso de ellas aplicando la API y en el de Conclusion se recoge informacion sobre todo y se explica como pueden ayudar a la hora de hacer un proyecto.
